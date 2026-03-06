@@ -19,3 +19,4 @@ npm install
 ```bash
 npm run dev
 ```
+# Digital Salon Appointment System
