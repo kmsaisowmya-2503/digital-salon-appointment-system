@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <div className="hero">
-        <h1>No Receptionist Required ✨</h1>
+        <h1>No Receptionist Required </h1>
         <p className="muted">
           Customers can book services, choose time slots, and manage appointments directly.
         </p>

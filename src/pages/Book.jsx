@@ -339,7 +339,7 @@ export default function Book() {
 
         {confirmed ? (
           <div className="success">
-            ✅ Booking Confirmed! <br />
+            Booking Confirmed! <br />
             Booking ID: <b>{confirmed.id}</b> <br />
             {confirmed.serviceName} | {confirmed.date} | {confirmed.timeLabel} | Staff: {confirmed.staffName}
           </div>
